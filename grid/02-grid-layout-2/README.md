@@ -17,11 +17,11 @@ When the browser is stretched wide:
 ![desired outcome wide](./desired-outcome-wide.png)
 
 ### Self Check
-- The gap is 15px
-- The grid has two columns
-- The grid has four rows
-- The grid tracks do not use static sizes (no pixels!)
-- The second column is three times larger than the other
-- The third row is five times larger than the others
-- The rows and columns stretch wider when making the browser window bigger
-- The rows and columns stretch taller when making the browser window smaller
+- The gap is 15px V
+- The grid has two columns V
+- The grid has four rows V
+- The grid tracks do not use static sizes (no pixels!) V
+- The second column is three times larger than the other V
+- The third row is five times larger than the others V
+- The rows and columns stretch wider when making the browser window bigger V
+- The rows and columns stretch taller when making the browser window smaller V
